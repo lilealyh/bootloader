@@ -4,3 +4,6 @@ USER/*.map
 USER/*.lst
 USER/*.uvoptx
 USER/*.uvprojx
+USER/*.dbgconf
+USER/BootLoader.uvprojx
+USER/DebugConfig/BootLoader_STM32F103VE_1.0.0.dbgconf
